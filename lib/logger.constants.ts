@@ -1,0 +1,1 @@
+export const CONFIG_OPTIONS: string = 'CONFIG_OPTIONS';
